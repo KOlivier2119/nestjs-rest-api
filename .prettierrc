@@ -1,6 +1,14 @@
 {
+  "prettier/prettier": [
+    "error",
+    {
+      "singleQuote": true,
+      "parser": "flow"
+    }
+  ],
   "semi": true,
   "singleQuote": true,
   "tabWidth": 2,
   "trailingComma": "all"
 }
+
